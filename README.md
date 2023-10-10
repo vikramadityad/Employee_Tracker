@@ -8,6 +8,8 @@
 - [Installation](#installation)
 - [Database Credentials](#database-credentials)
 - [Asynchronous Queries](#asynchronous-queries)
+- [Screenshot](#Screenshot)
+- [Live Video](#LiveVideo)
 - [Contributing](#contributing)
 - [License](#license)
 
