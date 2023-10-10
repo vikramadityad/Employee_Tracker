@@ -58,10 +58,12 @@ Important Note: This application requires database credentials to function. Ensu
 To enhance performance and make database queries asynchronous, you can utilize the MySQL2 package's .promise() function. Refer to the npm documentation on MySQL2 for more details on asynchronous queries.
 
 ## Screenshot
+<img width="2224" alt="Screenshot 2023-10-10 at 2 15 03 AM" src="https://github.com/vikramadityad/Employee_Tracker/assets/28673859/04ad4c07-5771-4896-9dd4-6c61d3a94208">
 
 
 ## LiveVideo:
 
+https://drive.google.com/file/d/1o6JZN-uBq72UTvRdigcLAGQCeWL3m0yt/view?usp=sharing
 
 ## Contributing
 If you would like to contribute to this project, please follow these guidelines:
